@@ -26,6 +26,16 @@ Exploring Corporate/Business Traveler:
 
 
 
+Research - Identify Potential use cases and Conduct a Feature Market Analysis:
+
+![Screen Shot 2022-01-05 at 15 09 40](https://user-images.githubusercontent.com/49109424/148291138-2cd2c0b6-4525-4c0a-937c-ef7de55007c1.png)
+
+
+![Screen Shot 2022-01-05 at 15 16 48](https://user-images.githubusercontent.com/49109424/148291226-d274bd02-d699-4011-9079-2f4c2b94e9d1.png)
+
+![Screen Shot 2022-01-05 at 15 18 18](https://user-images.githubusercontent.com/49109424/148291242-5d0021bf-6fa3-46a5-9659-50e581dd293c.png)
+
+
 
 
 
