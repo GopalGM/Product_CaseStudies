@@ -1,2 +1,2 @@
 # Product_CaseStudies
-[Screen Shot 2022-01-04 at 19 30 33](https://user-images.githubusercontent.com/49109424/148146494-a89676eb-0798-4009-8cdb-4c0a99a7a99b.png)
+You are a product manager at Stay-N-Sleep (Similar to Airbnb) — an American vacation rental online marketplace company based in New York City, NY, United States. Challenge: Can you demonstrate how you would architect a new loyalty program for Stay-N-Sleep? 
