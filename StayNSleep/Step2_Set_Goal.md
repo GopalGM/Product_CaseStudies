@@ -17,5 +17,7 @@
 
 
 
+<b> Hypothesis Statement </b>
 
-Hypothesis Statement
+
+![Screen Shot 2022-01-07 at 16 34 05](https://user-images.githubusercontent.com/49109424/148615989-036adf56-39da-42b5-95d2-c52c5d4f0147.png)
