@@ -51,6 +51,13 @@ Research - Identify Potential use cases and Conduct a Feature Market Analysis:
 ![Screen Shot 2022-01-06 at 19 03 53](https://user-images.githubusercontent.com/49109424/148474710-4c2d8886-020a-4fb6-8882-aea6df8b636c.png)
 
 
+----
+![Screen Shot 2022-01-06 at 19 10 35](https://user-images.githubusercontent.com/49109424/148475006-67b4e6dc-181d-4e19-9e25-44a7fb77b3d5.png)
+
+![Screen Shot 2022-01-06 at 19 10 54](https://user-images.githubusercontent.com/49109424/148475010-167726f6-1691-4e2a-9409-9bd5765c0404.png)
+
+![Screen Shot 2022-01-06 at 19 11 15](https://user-images.githubusercontent.com/49109424/148475019-90eeeec8-9357-4ab8-bc85-98814782d695.png)
+
 
 
 
