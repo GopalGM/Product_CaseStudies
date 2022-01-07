@@ -59,6 +59,10 @@ Research - Identify Potential use cases and Conduct a Feature Market Analysis:
 ![Screen Shot 2022-01-06 at 19 11 15](https://user-images.githubusercontent.com/49109424/148475019-90eeeec8-9357-4ab8-bc85-98814782d695.png)
 
 
+Customer Journey Map :
+
+
+![Screen Shot 2022-01-06 at 19 19 26](https://user-images.githubusercontent.com/49109424/148475606-6f0ff8a4-efd4-44e7-b58b-c2aaa53ebde5.png)
 
 
 
