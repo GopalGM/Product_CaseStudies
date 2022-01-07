@@ -11,5 +11,11 @@
 
 
 
-Value Proposition Canvas
+<b> Value Proposition Canvas </b>
+
+![Screen Shot 2022-01-07 at 16 31 10](https://user-images.githubusercontent.com/49109424/148615871-3ddff1df-3ea1-430d-831d-22fd8b922477.png)
+
+
+
+
 Hypothesis Statement
