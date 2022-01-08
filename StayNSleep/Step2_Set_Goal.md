@@ -21,3 +21,14 @@
 
 
 ![Screen Shot 2022-01-07 at 16 34 05](https://user-images.githubusercontent.com/49109424/148615989-036adf56-39da-42b5-95d2-c52c5d4f0147.png)
+
+
+Customer Interview Questions: UX Research - Customer interview questions to validate the hypothesis, capturing relevant details from discussions with the current or potential users to examine user experience, assess the usability of the product and develop user personas.
+
+![Screen Shot 2022-01-08 at 16 49 56](https://user-images.githubusercontent.com/49109424/148662489-f66f5221-1dab-4a73-9ff1-20ec818386f8.png)
+
+Perform a SWOT analysis and organize the product's strenghts,weaknesses, opportunities and threats. Use this analysis to zero in and develop areas needing work and bolster those areas where you're already strong.
+
+![Screen Shot 2022-01-08 at 16 54 44](https://user-images.githubusercontent.com/49109424/148662588-279e1864-6caf-4f53-ac80-5ee562eaa594.png)
+
+
