@@ -31,4 +31,8 @@ Perform a SWOT analysis and organize the product's strenghts,weaknesses, opportu
 
 ![Screen Shot 2022-01-08 at 16 54 44](https://user-images.githubusercontent.com/49109424/148662588-279e1864-6caf-4f53-ac80-5ee562eaa594.png)
 
+Kano Model to segment the product's features based on how much they improve user satisfaction compared to the product team's expenses on them. List the attributes - Basic Expectations, Satisfier, Delighter. A/B test to validate hypothesis.
+
+![Screen Shot 2022-01-08 at 17 01 45](https://user-images.githubusercontent.com/49109424/148662761-19ae30d7-3e6f-47a0-97b7-267c64fe30b5.png)
+
 
