@@ -8,3 +8,5 @@
 <b> Wireframe Search and Details page :</b>
 
 ![Screen Shot 2022-01-13 at 16 19 09](https://user-images.githubusercontent.com/49109424/149418185-df19c838-7cb2-406c-b540-5f3025404891.png)
+
+<b> Agile Team Sprint Plan  :</b>
