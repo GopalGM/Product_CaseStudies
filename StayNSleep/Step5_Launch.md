@@ -14,3 +14,8 @@ Launch
 
 ![Screen Shot 2022-01-13 at 19 12 52](https://user-images.githubusercontent.com/49109424/149434170-4ad80be0-d987-48a3-b8f0-3f9a55efdce6.png)
 
+
+<b> Empathy Map : </b> Product Positioning that Delight the Customers using Empathy Map to visualize user's needs to develop better products and services.
+
+![Screen Shot 2022-01-13 at 19 17 25](https://user-images.githubusercontent.com/49109424/149434528-621bdc53-c387-4e41-9eea-924078710455.png)
+
