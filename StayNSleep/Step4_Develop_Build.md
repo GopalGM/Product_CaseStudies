@@ -21,3 +21,9 @@
 ![Screen Shot 2022-01-13 at 18 42 05](https://user-images.githubusercontent.com/49109424/149431736-03661ca3-16af-4623-8c68-f68dbcb2922a.png)
 
 ![Screen Shot 2022-01-13 at 18 41 25](https://user-images.githubusercontent.com/49109424/149431758-098d0e07-0024-45e7-916f-aa2e04383a96.png)
+
+
+<b> Team Management - Culture Map :</b> Culture map to empathize with the team mates and better manage using influence for a more effective distributed team.
+
+![Screen Shot 2022-01-13 at 18 54 12](https://user-images.githubusercontent.com/49109424/149432615-db2cdc8f-3f2c-419c-96df-282ff06408e7.png)
+
