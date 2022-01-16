@@ -9,3 +9,5 @@ Collaboratively reflect on the Projct, Sprint and Time Period and Identify actio
 
 <b> Review Data & Create Hypethesis :</b> Based from the data from the launch, determine if need to iterate on the initial product launch or sunset the initiative.
 
+![Screen Shot 2022-01-16 at 12 58 44](https://user-images.githubusercontent.com/49109424/149673991-f5524af3-05d0-4e56-848b-b3e67f8e322b.png)
+
