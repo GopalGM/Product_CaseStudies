@@ -11,3 +11,7 @@ Collaboratively reflect on the Projct, Sprint and Time Period and Identify actio
 
 ![Screen Shot 2022-01-16 at 12 58 44](https://user-images.githubusercontent.com/49109424/149673991-f5524af3-05d0-4e56-848b-b3e67f8e322b.png)
 
+<b>Executive Summary :</b> Thinking executive summare as a movie trailer. Focussing on the highlights : the objectives, stakes, and plan to achieve goal.
+
+![Screen Shot 2022-01-16 at 13 07 21](https://user-images.githubusercontent.com/49109424/149674289-3c319e64-6192-4f12-88d4-60264ec72b4f.png)
+
