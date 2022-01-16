@@ -1,7 +1,8 @@
-<b>Assess & Learn - Retrospectivve</b>
+<b>Assess & Learn - Retrospective</b>
 
 Collaboratively reflect on the Projct, Sprint and Time Period and Identify actions for improvement goint forward.
 
+<b> Agile Retrospective </b>
 
 ![Screen Shot 2022-01-16 at 11 06 44](https://user-images.githubusercontent.com/49109424/149670190-466f6c2c-68f0-44d3-b65c-53426ff5ee2a.png)
 ![Screen Shot 2022-01-16 at 11 07 37](https://user-images.githubusercontent.com/49109424/149670193-98535523-bedd-4d67-9092-a04a8662d80b.png)
